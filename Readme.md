@@ -1,6 +1,4 @@
-![image-captioning](\images\image-captioning.png)
-
-<center>Image Captioning Model</center>
+![image-captioning](/images/image-captioning.png)
 
 
 ## Project Overview
